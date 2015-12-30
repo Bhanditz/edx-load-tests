@@ -212,11 +212,10 @@ demo_course = CourseData(
         "edX_Introduction",
     ),
     video_ids=(
+        "b7xgknqkQk8",
         "CCxmtcICYNc",
-        "o2pLltkrhGM",
-        "OEoXaMPEzfM",
-        "oX46YqHWgyw",
         "qWxm7CA2v24",
+        "o2pLltkrhGM",
     ),
     discussion_ids=(  # from metadata.discussion_id, not the block id
         "d9f970a42067413cbb633f81cfb12604",
